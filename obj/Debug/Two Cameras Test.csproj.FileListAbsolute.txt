@@ -1,0 +1,65 @@
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\Two Cameras Test.exe
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\Two Cameras Test.pdb
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Controls.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Imaging.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Math.dll
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Controls.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Imaging.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\bin\Debug\AForge.Math.xml
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.csprojResolveAssemblyReference.cache
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\TwoCamerasTest.MainForm.resources
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\TwoCamerasTest.Properties.Resources.resources
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.csproj.GenerateResource.Cache
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+C:\Program Files\AForge.NET\Framework\Samples\Video\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\Two Cameras Test.exe
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\Two Cameras Test.pdb
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Controls.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Video.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Imaging.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Math.dll
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Controls.xml
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Video.xml
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.xml
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Imaging.xml
+C:\Users\Alex\Desktop\Two Cameras Test\bin\Debug\AForge.Math.xml
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\TwoCamerasTest.MainForm.resources
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\TwoCamerasTest.Properties.Resources.resources
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\Two Cameras Test.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+C:\Users\Alex\Desktop\Two Cameras Test\obj\Debug\Two Cameras Test.csprojResolveAssemblyReference.cache
+C:\Users\Sem\Desktop\Подводный робот\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+C:\Users\Sem\Desktop\Подводный робот\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+F:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+F:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+I:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.exe
+I:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.pdb
+I:\Диплом\Two Cameras Test\bin\Debug\Two Cameras Test.exe
+I:\Диплом\Two Cameras Test\bin\Debug\Two Cameras Test.pdb
+I:\Диплом\Two Cameras Test\bin\Debug\Microsoft.DirectX.DirectInput.dll
+I:\Диплом\Two Cameras Test\bin\Debug\Microsoft.DirectX.dll
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.dll
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Imaging.dll
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Math.dll
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Controls.xml
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Video.xml
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Video.DirectShow.xml
+I:\Диплом\Two Cameras Test\bin\Debug\Microsoft.DirectX.xml
+I:\Диплом\Two Cameras Test\bin\Debug\Microsoft.DirectX.DirectInput.xml
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.xml
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Imaging.xml
+I:\Диплом\Two Cameras Test\bin\Debug\AForge.Math.xml
+I:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.csprojResolveAssemblyReference.cache
+I:\Диплом\Two Cameras Test\obj\Debug\TwoCamerasTest.MainForm.resources
+I:\Диплом\Two Cameras Test\obj\Debug\TwoCamerasTest.Properties.Resources.resources
+I:\Диплом\Two Cameras Test\obj\Debug\Two Cameras Test.csproj.GenerateResource.Cache
